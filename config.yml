@@ -5,6 +5,7 @@ theme: PaperMod
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
+googleAnalytics: UA-63248109-4
 
 outputs:
   home:
