@@ -56,7 +56,6 @@ params:
 taxonomies:
   category: categories
   tag: tags
-  series: series
 
 menu:
   main:
@@ -64,6 +63,10 @@ menu:
       name: about me
       url: /about
       weight: 5
+    - identifier: blog
+      name: blog
+      url: /posts
+      weight: 6
     - identifier: categories
       name: categories
       url: /categories/
