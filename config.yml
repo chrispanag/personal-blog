@@ -1,0 +1,74 @@
+baseURL: "http://example.org/"
+languageCode: "en-us"
+title: chrispanag
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+paginate: 10
+paginatePath: blog
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  description: "Software Engineer, Web Developer, FOSS Enthusiast"
+  author: Christos Panagiotakopoulos
+  # author: ["Me", "You"] # multiple authors
+
+  defaultTheme: auto
+  disableThemeToggle: false
+  ShowShareButtons: true
+  ShowReadingTime:
+    true
+    # disableSpecial1stPost: true
+  displayFullLangName: true
+  comments: false
+  images: ["papermod-cover.png"]
+
+  profileMode:
+    enabled: true
+    title: "Christos Panagiotakopoulos" # optional default will be site title
+    imageUrl: "profile.jpg" # optional
+    imageTitle: "Christos Panagiotakopoulos' profile picture" # optional
+    imageWidth: 120 # custom size
+    imageHeight: 120 # custom size
+
+    buttons:
+      - { name: Blog, url: "/posts" }
+
+  socialIcons: # optional
+    - { name: "Facebook", url: "https://facebook.com/chrispanag" }
+    - { name: "LinkedIn", url: "https://www.linkedin.com/in/chrispanag/" }
+    - { name: "Github", url: "https://github.com/chrispanag" }
+    - { name: "Twitter", url: "https://twitter.com/chrispanag" }
+    - { name: "Mastodon", url: "https://fosstodon.org/web/accounts/286516" }
+
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+
+menu:
+  main:
+    - identifier: aboutme
+      name: about me
+      url: /about
+      weight: 5
+    - identifier: categories
+      name: categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
