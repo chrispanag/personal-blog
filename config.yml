@@ -38,7 +38,7 @@ params:
     # disableSpecial1stPost: true
   displayFullLangName: true
   comments: false
-  images: ["papermod-cover.png"]
+  images: ["profile.webp"]
 
   profileMode:
     enabled: true
