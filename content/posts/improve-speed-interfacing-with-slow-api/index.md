@@ -3,7 +3,7 @@ author: "Christos Panagiotakopoulos"
 title: "A trick to improve speed when you are interfacing with a slow API"
 date: "2020-01-19"
 description: "'memoized-node-fetch' an npm package that acts as a wrapper around node-fetch"
-tags: ["package", "open-source", "javascript", "typescript"]
+tags: ["package", "opensource", "javascript", "typescript"]
 categories: ["programming"]
 
 cover:
