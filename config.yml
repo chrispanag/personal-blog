@@ -38,7 +38,7 @@ params:
   profileMode:
     enabled: true
     title: "Christos Panagiotakopoulos" # optional default will be site title
-    imageUrl: "profile.jpg" # optional
+    imageUrl: "profile.webp" # optional
     imageTitle: "Christos Panagiotakopoulos' profile picture" # optional
     imageWidth: 120 # custom size
     imageHeight: 120 # custom size
