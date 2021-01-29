@@ -48,7 +48,7 @@ The only way to change the situation is to force those social networks to use th
 
 After portability, we need to discuss about **interoperability**, which in this case is the ability to contact people that are are using different chat applications than the one you are using. The way email and SMS already work. 
 
-Although this is still far-fetched, we need to finally start addressing it
+Although this is still far-fetched, we need to finally start addressing it.
 ## Further reads
 
 * [What is ActivityPub?](https://www.jeremydormitzer.com/blog/what-is-activitypub.html)
