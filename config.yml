@@ -37,7 +37,7 @@ params:
     true
     # disableSpecial1stPost: true
   displayFullLangName: true
-  comments: false
+  comments: true
   images: ["profile.webp"]
 
   profileMode:

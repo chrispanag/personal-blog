@@ -3,6 +3,8 @@ layout: "single"
 url: "/about"
 summary: About
 hidemeta: true
+
+comments: false
 ---
 
 # My name is Christos Panagiotakopoulos
