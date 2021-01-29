@@ -16,7 +16,7 @@ After the privacy related changes to WhatsApp, a lot of people are fleeing this 
 
 In Greece where me and most of my contacts live, WhatsApp isn't as popular as Facebook's Messenger, an app that lacks end-to-end encryption and as a result is considerably worse privacy-wise. 
 
-End-to-end encryption is a technical measure, implemented to make eavesdroping on your chat conversations impossible. It encrypts your messages from the moment they leave your device, till the moment they are received by your friend's phone. In this way, nobody can use your conversations to sell your information to advertisers and no rogue government can read your messages to enforce laws. But for the average person living in a western democracy, who still (knowingly or unknowningly) uses Facebook and other ad-supported, privacy-invasive social networks, this feature is not as important as it seems.
+End-to-end encryption is a technical measure, implemented to make eavesdropping on your chat conversations impossible. It encrypts your messages from the moment they leave your device, till the moment they are received by your friend's phone. In this way, nobody can use your conversations to sell your information to advertisers and no rogue government can read your messages to enforce laws. But for the average person living in a western democracy, who still (knowingly or unknowningly) uses Facebook and other ad-supported, privacy-invasive social networks, this feature is not as important as it seems.
 
 Messenger, for me, is the best chat app in the world, because it has the only feature I need from a chat app. **My contacts!** 
 
