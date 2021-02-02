@@ -1,6 +1,6 @@
 ---
 layout: "single"
-url: "/athensbus-privacy-policy"
+url: "/athens-bus-privacy-policy"
 summary: Athensbus Privacy Policy
 hidemeta: true
 
