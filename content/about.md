@@ -11,7 +11,7 @@ comments: false
 
 I'm a software engineer working with NodeJS, JS/TS and anything in-between. I live in Athens, Greece but I like to work from anywhere in the world.
 
-I'm currently finishing my CS studies at the [School of Electrical & Computer Engineering](https://ece.ntua.gr) at the [National Technical University of Athens](https://ntua.gr).
+I'm currently finishing my CS studies at the [School of Electrical & Computer Engineering](https://www.ece.ntua.gr/en) at the [National Technical University of Athens](https://www.ntua.gr/en/).
 
 Parallely, I'm working as a **tech team leader** at [**Enneas**](https://enneas.gr), an Athens-based software company, focusing on applications of innovative technologies ranging from AR/VR to chatbots.
 
