@@ -29,7 +29,7 @@ params:
   description: "Software Engineer, Web Developer, FOSS Enthusiast"
   author: Christos Panagiotakopoulos
   # author: ["Me", "You"] # multiple authors
-
+  ShowPostNavLinks: true
   defaultTheme: auto
   disableThemeToggle: false
   ShowShareButtons: true
