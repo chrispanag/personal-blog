@@ -43,6 +43,7 @@ params:
   profileMode:
     enabled: true
     title: "Christos Panagiotakopoulos" # optional default will be site title
+    subtitle: "Mid-Level Backend Software Engineer"
     imageUrl: "profile.webp" # optional
     imageTitle: "Christos Panagiotakopoulos' profile picture" # optional
     imageWidth: 120 # custom size
@@ -50,11 +51,16 @@ params:
 
     buttons:
       - { name: Blog, url: "/posts" }
+      - { name: About, url: "/about" }
 
   socialIcons: # optional
-    - { name: "Facebook", url: "https://facebook.com/chrispanag" }
     - { name: "LinkedIn", url: "https://www.linkedin.com/in/chrispanag/" }
     - { name: "Github", url: "https://github.com/chrispanag" }
+    - {
+        name: "Stackoverflow",
+        url: "https://stackoverflow.com/users/6141173/christos-panagiotakopoulos",
+      }
+    - { name: "Facebook", url: "https://facebook.com/chrispanag" }
     - { name: "Twitter", url: "https://twitter.com/chrispanag" }
     - { name: "Mastodon", url: "https://fosstodon.org/@chrispanag" }
 
@@ -68,10 +74,14 @@ menu:
       name: about me
       url: /about
       weight: 5
+    - identifier: resume
+      name: resume
+      url: Christos_Panagiotakopoulos_-_Mid-Level_Backend_Software_Engineer.pdf
+      weight: 6
     - identifier: blog
       name: blog
       url: /posts
-      weight: 6
+      weight: 7
     - identifier: categories
       name: categories
       url: /categories/
