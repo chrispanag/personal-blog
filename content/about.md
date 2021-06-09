@@ -9,9 +9,9 @@ comments: false
 
 # My name is Christos Panagiotakopoulos
 
-I'm a dedicated software craftsman with a 5-year experience in NodeJS. Currently, I'm mainly working with **Typescript**, and I'm also learning **Elixir** and I'm also interested in learning **Go**.
+I'm a dedicated software craftsman with a 5-year experience in Node.js. Currently, I'm mainly working with **Typescript**, and I'm currently learning **Go**.
 
-Parallely, I'm working as a **tech team leader** at [**Enneas**](https://enneas.gr), an Athens-based software company, focusing on applications of innovative technologies ranging from AR/VR to chatbots.
+Parallely, I'm working as a **Lead Software Engineer** at [**Enneas**](https://enneas.gr), an Athens-based software company, focusing on applications of innovative technologies ranging from AR/VR to chatbots.
 
 I'm currently finishing my CS studies at the [School of Electrical & Computer Engineering](https://www.ece.ntua.gr/en) of the [National Technical University of Athens](https://www.ntua.gr/en/).
 
