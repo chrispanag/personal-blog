@@ -9,9 +9,9 @@ comments: false
 
 # My name is Christos Panagiotakopoulos
 
-I'm a dedicated software craftsman with a 5-year experience in Node.js. Currently, I'm mainly working with **Typescript**, and I'm currently learning **Go**.
+I'm a self-proclaimed software craftsman with a 5-year experience in Node.js.
 
-Parallely, I'm working as a **Lead Software Engineer** at [**Enneas**](https://enneas.gr), an Athens-based software company, focusing on applications of innovative technologies ranging from AR/VR to chatbots.
+I'm currently building decentralized discourse, as a Software Engineer, at [Capsule Social](https://capsule.social), while exploring the potential of the Decentralized Web.
 
 I'm currently finishing my CS studies at the [School of Electrical & Computer Engineering](https://www.ece.ntua.gr/en) of the [National Technical University of Athens](https://www.ntua.gr/en/).
 
@@ -26,5 +26,5 @@ ___
 * Discourse ([github](https://github.com/discourse/discourse)/[website](https://discourse.org))
 * Mailcow ([github](https://github.com/mailcow/mailcow-dockerized)/[website](https://mailcow.email))
 * Signal ([github](https://github.com/signalapp)/[website](https://signal.org/en/))
-* TypeORM ([github](https://github.com/typeorm/typeorm)/[website](https://typeorm.io/))
+* IPFS ([github](https://github.com/ipfs)/[website](https://ipfs.io))
 * type-graphql ([github](https://github.com/MichalLytek/type-graphql)/[website](https://typegraphql.com))
