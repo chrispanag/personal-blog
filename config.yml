@@ -28,7 +28,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "Software Engineer, Web Developer, FOSS Enthusiast"
+  description: "Software Engineer, Web3 Developer, FOSS Enthusiast"
   author: Christos Panagiotakopoulos
   # author: ["Me", "You"] # multiple authors
   ShowPostNavLinks: true
@@ -45,7 +45,7 @@ params:
   profileMode:
     enabled: true
     title: "Christos Panagiotakopoulos" # optional default will be site title
-    subtitle: "Mid-Level Backend Software Engineer"
+    subtitle: "Software Engineer"
     imageUrl: "profile.webp" # optional
     imageTitle: "Christos Panagiotakopoulos' profile picture" # optional
     imageWidth: 120 # custom size
@@ -54,16 +54,17 @@ params:
     buttons:
       - { name: Blog, url: "/posts" }
       - { name: About, url: "/about" }
+      - { name: Capsule Social, url: "https://capsule.social" }
 
   socialIcons: # optional
-    - { name: "LinkedIn", url: "https://www.linkedin.com/in/chrispanag/" }
     - { name: "Github", url: "https://github.com/chrispanag" }
+    - { name: "Twitter", url: "https://twitter.com/chrispanag" }
+    - { name: "LinkedIn", url: "https://www.linkedin.com/in/chrispanag/" }
     - {
         name: "Stackoverflow",
         url: "https://stackoverflow.com/users/6141173/christos-panagiotakopoulos",
       }
     - { name: "Facebook", url: "https://facebook.com/chrispanag" }
-    - { name: "Twitter", url: "https://twitter.com/chrispanag" }
     - { name: "Mastodon", url: "https://fosstodon.org/@chrispanag" }
 
 taxonomies:
@@ -76,10 +77,10 @@ menu:
       name: about me
       url: /about
       weight: 5
-    - identifier: resume
-      name: resume
-      url: Christos_Panagiotakopoulos_-_Mid-Level_Backend_Software_Engineer.pdf
-      weight: 6
+    # - identifier: resume
+    #   name: resume
+    #   url: Christos_Panagiotakopoulos_-_Mid-Level_Backend_Software_Engineer.pdf
+    #   weight: 6
     - identifier: blog
       name: blog
       url: /posts
